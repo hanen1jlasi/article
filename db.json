@@ -1,0 +1,16 @@
+{
+  "produit": [
+    {
+      "title": "shoes",
+      "price": "123$",
+      "image": "https://imgs.search.brave.com/PnHl7LmrbzgE8LktktkDzMDxJ1EP7K0wQjWvTV17PyI/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/RGpqQy15U0Znc3M2/d2JuWjJZR0NnSGFI/YSZwaWQ9QXBp",
+      "id": 3
+    },
+    {
+      "title": "cvvvvvv",
+      "price": "",
+      "image": "",
+      "id": 4
+    }
+  ]
+}
